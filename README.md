@@ -7,7 +7,7 @@
 
 I build **[OKZest](https://okzest.com/?utm_source=github&utm_medium=profile&utm_campaign=techboy_readme&utm_content=intro)**: personalised images for email, where every subscriber sees their own name, offer or live data in the picture.
 
-By day I'm Head of SAP Technical Services at Birchman.
+By day I'm Head of SAP Technical Services at Birchman. My SAP background and experience are on [PerformIT](https://performit.co.uk).
 
 ---
 
@@ -36,4 +36,4 @@ By day I'm Head of SAP Technical Services at Birchman.
 
 ### 📫 Find me
 
-[X @TechboyUK](https://x.com/TechboyUK) · [OKZest](https://okzest.com/?utm_source=github&utm_medium=profile&utm_campaign=techboy_readme&utm_content=footer)
+[PerformIT (CV)](https://performit.co.uk) · [X @TechboyUK](https://x.com/TechboyUK) · [OKZest](https://okzest.com/?utm_source=github&utm_medium=profile&utm_campaign=techboy_readme&utm_content=footer)
